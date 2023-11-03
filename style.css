@@ -30,7 +30,7 @@ body {
 }
 
 .menu-link:hover {
-    color: #3A6888;
+    color: #3A68B8;
 }   
 
 .header {
@@ -45,6 +45,7 @@ body {
     font-weight: 600;
     line-height: 160%; /* 28.8px */
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 
 .title {
@@ -89,7 +90,7 @@ body {
 }
 
 .main-left, .main-right {
-    width: 47px;
+    width: 47%;
 }
 
 .main {
